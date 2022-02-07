@@ -1,4 +1,4 @@
-# MIE-TATAm
+# MIEP-TATAm
 
 This is a curated selection of new HCMV Towne MIE-TATAm datasets for viewing in the [UCSC Genome Browser](http://www.genome.ucsc.edu/).
 
