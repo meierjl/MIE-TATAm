@@ -7,7 +7,7 @@ This is a curated selection of new HCMV Towne MIE-TATAm datasets for viewing in 
     First go to the UCSC Genome Browser.
     Then, navigate to My Data > Track Hubs.
     Select the My Hubs tab.
-    Finally, paste https://raw.githubusercontent.com/meierjl/MIE-TATAm/master/hub.txt into the URL field.
+    Finally, paste https://raw.githubusercontent.com/meierjl/MIEP-TATAm/master/hub.txt into the URL field.
 
 You should now be able to select the FJ616285.1 genome and view these tracks!
 
