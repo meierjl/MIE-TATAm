@@ -164,118 +164,42 @@ maxHeightPixels 128:128:16
 
 #############
 
-track IE2F-6h-dTag-Exp2-Flavo
+track IE2F-ENHm-No-dTag-Exp1
 compositeTrack on
 type bigWig 0 1000
 priority 9.5
 visibility full
-shortLabel IE2F Flavo dTAG
-longLabel IE2F Flavo dTAG
+shortLabel IE2F
+longLabel IE2F
 	 
-track IE2F-6h-dTag-Exp2-Flavo_FW
-parent IE2F-6h-dTag-Exp2-Flavo
+track IE2F-ENHm-No-dTag-Exp1_FW
+parent IE2F-ENHm-No-dTag-Exp1
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/MIEP-TATAm/master/FJ616285.1/IE2-FKBP-PRO-Seq/IE2F-6h-dTag-Exp2-Flavo-dedup-FW-FJ616285.1.bw
-longLabel IE2F Flavo dTAG
-shortLabel IE2F Flavo dTAG
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/MIEP-TATAm/master/FJ616285.1/IE2-FKBP-PRO-Seq/IE2F-ENHm-No-dTag-Exp1-dedup-FW-FJ616285.1.bw
+longLabel IE2F ENHm
+shortLabel IE2F ENHm
 negateValues off
-color 153,58,29
-altColor 153,58,29
+color 113,35,124
+altColor 113,35,124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 	 
-track IE2F-6h-dTag-Exp2-Flavo_RV
-parent IE2F-6h-dTag-Exp2-Flavo
+track IE2F-ENHm-No-dTag-Exp1_RV
+parent IE2F-No-dTag-Exp2
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/MIEP-TATAm/master/FJ616285.1/IE2-FKBP-PRO-Seq/IE2F-6h-dTag-Exp2-Flavo-dedup-RV-FJ616285.1.bw
-longLabel IE2F Flavo dTAG
-shortLabel IE2F Flavo dTAG
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/MIEP-TATAm/master/FJ616285.1/IE2-FKBP-PRO-Seq/IE2F-ENHm-No-dTag-Exp1-dedup-RV-FJ616285.1.bw
+longLabel IE2F ENHm
+shortLabel IE2F ENHm
 negateValues on
-color 153,58,29
-altColor 153,58,29
+color 113,35,124
+altColor 113,35,124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
-
-#############
-	 
-track IE2F-TATAm-6h-dTag-Exp1-Flavo
-compositeTrack on
-type bigWig 0 1000
-priority 9.5
-visibility full
-shortLabel IE2F TATAm Flavo dTAG
-longLabel IE2F TATAm Flavo dTAG
-	 
-track IE2F-TATAm-6h-dTag-Exp1-Flavo_FW
-parent IE2F-TATAm-6h-dTag-Exp1-Flavo
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/MIEP-TATAm/master/FJ616285.1/IE2-FKBP-PRO-Seq/IE2F-TATAm-6h-dTag-Exp1-Flavo-dedup-FW-FJ616285.1.bw
-longLabel IE2F TATAm Flavo dTAG
-shortLabel IE2F TATAm Flavo dTAG
-negateValues off
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-	 
-track IE2F-TATAm-6h-dTag-Exp1-Flavo_RV
-parent IE2F-TATAm-6h-dTag-Exp1-Flavo
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/MIEP-TATAm/master/FJ616285.1/IE2-FKBP-PRO-Seq/IE2F-TATAm-6h-dTag-Exp1-Flavo-dedup-RV-FJ616285.1.bw
-longLabel IE2F TATAm Flavo dTAG
-shortLabel IE2F TATAm Flavo dTAG
-negateValues on
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-	 
-#############
-
-track 2019-10-27-HFF-Towne-UL87F-No-dTag-Flavo-Exp2
-compositeTrack on
-type bigWig 0 1000
-priority 9.5
-visibility full
-shortLabel 2019-10-27-HFF-Towne-UL87F-No-dTag-Flavo-Exp2
-longLabel 2019-10-27-HFF-Towne-UL87F-No-dTag-Flavo-Exp2
-	 
-track 2019-10-27-HFF-Towne-UL87F-No-dTag-Flavo-Exp2_FW
-parent 2019-10-27-HFF-Towne-UL87F-No-dTag-Flavo-Exp2
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/MIEP-TATAm/master/FJ616285.1/IE2-FKBP-PRO-Seq/2019-10-27-HFF-Towne-UL87F-No-dTag-Flavo-Exp2-FJ616285.1-Norm-FW.bw
-longLabel WT Flavo 
-shortLabel WT Flavo 
-negateValues off
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-	 
-track 2019-10-27-HFF-Towne-UL87F-No-dTag-Flavo-Exp2_RV
-parent 2019-10-27-HFF-Towne-UL87F-No-dTag-Flavo-Exp2
-type bigWig 0 1000
-visibility full
-bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/MIEP-TATAm/master/FJ616285.1/IE2-FKBP-PRO-Seq/2019-10-27-HFF-Towne-UL87F-No-dTag-Flavo-Exp2-FJ616285.1-Norm-RV.bw
-longLabel WT Flavo
-shortLabel WT Flavo
-negateValues on
-color 153,58,29
-altColor 153,58,29
-alwaysZero on
-autoScale on
-maxHeightPixels 128:128:16
-
+	
 
 #############	 
 	 
