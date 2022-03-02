@@ -24,6 +24,4 @@ Please visit the following site for documentation: https://genome.ucsc.edu/golde
 This track hub contains PRO-Seq first described in the following manuscript:
 
 
-This track hub also contains datasets generated and described by M.Li, et al. in [2021 PLOS Pathogens manuscript] https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009796
-
-2021 PLOS Pathogens manuscript PMID: 34339482. Raw datasets were downloaded from GEO:GSE168165.
+This track hub also contains datasets generated and described by M.Li, et al. in [2021 PLOS Pathogens manuscript](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009796) PMID: 34339482. Raw datasets were downloaded from GEO:GSE168165.
