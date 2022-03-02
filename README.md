@@ -25,3 +25,5 @@ This track hub contains PRO-Seq first described in the following manuscript:
 
 
 
+This track hub also contains datasets generated and described by Ming Li
+al. in their 2012 Science manuscript PMID: 23180859. Raw datasets were downloaded from GEO: GSE41605.
