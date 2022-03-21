@@ -253,8 +253,8 @@ parent IE2F-ENHm-No-dTag-mutation
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/MIEP-TATAm/master/FJ616285.1/IE2-FKBP-PRO-Seq/IE2F-ENHm-No-dTag-mutation-dedup-FW-FJ616285.1.bw
-longLabel IE2F N8 sequence
-shortLabel IE2F N8 sequence
+longLabel IE2F ENHm N8 sequence
+shortLabel IE2F ENHm N8 sequence
 negateValues off
 color 113,35,124
 altColor 113,35,124
@@ -267,8 +267,8 @@ parent IE2F-No-dTag-mutation
 type bigWig 0 1000
 visibility full
 bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/MIEP-TATAm/master/FJ616285.1/IE2-FKBP-PRO-Seq/IE2F-ENHm-No-dTag-mutation-dedup-RV-FJ616285.1.bw
-longLabel IE2F N8 sequence
-shortLabel IE2F N8 sequence
+longLabel IE2F ENHm N8 sequence
+shortLabel IE2F ENHm N8 sequence
 negateValues on
 color 113,35,124
 altColor 113,35,124
